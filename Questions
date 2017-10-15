@@ -1,47 +1,49 @@
-"A program is defined as a _"
-"Method"
-*"Class"
-"Statement"
-"Algorithm"
-
-"Why would you use a method?"
-"To reduce code redundat code"
-"A way of writing code"
-"Breack down a program into different parts"
-*"A and C"
-
-"Which of the following are illegal identifiers in Java"
-"TheVar"
-*"mountin-View"
-"_name"
-"$money"
-
-"What are the most common syntax errors programmers run into"
-"Too many or too few '(', ')'"
-*"No semicolon at the end of a statement"
-
-"What is the out put of the following statement
+var questions = [{
+"question": "A program is defined as a _"
+"option1":"Method"
+"option2":*"Class"
+"option3":"Statement"
+"option4":"Algorithm"
+},{
+"question":"Why would you use a method?"
+"option1":"To reduce code redundat code"
+"option2":"A way of writing code"
+"option3":"Breack down a program into different parts"
+"option4":*"A and C"
+},{
+"question":"Which of the following are illegal identifiers in Java"
+"option1":"TheVar"
+"option2":*"mountin-View"
+"option3":"_name"
+"option4":"$money"
+},{
+"question":"What are the most common syntax errors programmers run into"
+"option1":"Too many or too few '(', ')'"
+"option2":*"No semicolon at the end of a statement"
+},{
+"question":"What is the out put of the following statement
 System.out.println("\\\\");"
-*"\\"
-"\\\\"
-"\"
-"//"
-
-"What statement would produce the following
+"option1":*"\\"
+"option2":"\\\\"
+"option3":"\"
+"option4":"//"
+},{
+"question":"What statement would produce the following
 / \ // \\ /// \\\"
-*"System.out.println("/ \\ // \\\\ /// \\\\\\);"
-"System.out.println("/ \ // \\ /// \\\");"
-"System.out.println("// \ //// \\ ////// \\\")"
-"System.out.println("")""
-
-"What is an algorithm?"
-"A group of statements"
-*"A list of steps for solving a problem"
-"A class"
-"A method"
-
-"How do you is a string denoted?"
-*""" "
-"''"
-"Letters"
-"Characters"
+"option1":*"System.out.println("/ \\ // \\\\ /// \\\\\\);"
+"option2":"System.out.println("/ \ // \\ /// \\\");"
+"option3":"System.out.println("// \ //// \\ ////// \\\")"
+"option4":"System.out.println("")""
+},{
+"question":"What is an algorithm?"
+"option1":"A group of statements"
+"option2":*"A list of steps for solving a problem"
+"option3":"A class"
+"option4":"A method"
+},{
+"question":"How do you is a string denoted?"
+"option1":*""" "
+"option2":"''"
+"option3":"Letters"
+"option4":"Characters"
+}];

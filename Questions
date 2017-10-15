@@ -1,0 +1,47 @@
+"A program is defined as a _"
+"Method"
+*"Class"
+"Statement"
+"Algorithm"
+
+"Why would you use a method?"
+"To reduce code redundat code"
+"A way of writing code"
+"Breack down a program into different parts"
+*"A and C"
+
+"Which of the following are illegal identifiers in Java"
+"TheVar"
+*"mountin-View"
+"_name"
+"$money"
+
+"What are the most common syntax errors programmers run into"
+"Too many or too few '(', ')'"
+*"No semicolon at the end of a statement"
+
+"What is the out put of the following statement
+System.out.println("\\\\");"
+*"\\"
+"\\\\"
+"\"
+"//"
+
+"What statement would produce the following
+/ \ // \\ /// \\\"
+*"System.out.println("/ \\ // \\\\ /// \\\\\\);"
+"System.out.println("/ \ // \\ /// \\\");"
+"System.out.println("// \ //// \\ ////// \\\")"
+"System.out.println("")""
+
+"What is an algorithm?"
+"A group of statements"
+*"A list of steps for solving a problem"
+"A class"
+"A method"
+
+"How do you is a string denoted?"
+*""" "
+"''"
+"Letters"
+"Characters"
